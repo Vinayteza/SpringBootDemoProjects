@@ -36,7 +36,7 @@ import org.springframework.util.StringUtils;
  * @author Andy Wilkinson
  * @since 2.0.0
  */
-public class ElasticsearchHealthIndicator extends AbstractHealthIndicator {
+public class ElasticsearchHealthIndicator {
 
 	private static final String[] ALL_INDICES = { "_all" };
 
