@@ -16,7 +16,7 @@
 		<main.basedir>${basedir}/../..</main.basedir>
 	</properties>
 	<dependencies>
-		<!-- Compile -->
+		<!-- Compile - User 1 made some changes to pom.xml -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
