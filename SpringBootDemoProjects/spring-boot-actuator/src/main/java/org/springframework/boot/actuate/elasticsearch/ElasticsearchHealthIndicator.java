@@ -44,7 +44,7 @@ public class ElasticsearchHealthIndicator {
 
 	private final String[] indices;
 
-	private final long responseTimeout;
+	//private final long responseTimeout;
 
 	/**
 	 * Create a new {@link ElasticsearchHealthIndicator} instance.
